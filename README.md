@@ -1,5 +1,5 @@
 developed a simple e-commerce website with product listings, a shopping cart, and a checkout process. Features
-## Live Demo - https://e-commerce-react-website-chi.vercel.app/
+## Live Demo - [https://e-commerce-react-website-chi.vercel.app/](https://blog-tpc1-sai-rams-projects-00725e14.vercel.app/)
 
 # E-Commerce Project
 
